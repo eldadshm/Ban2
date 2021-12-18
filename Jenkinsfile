@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Buid') {
       steps {
-        sh 'echo 10'
+        sh 'echo 11'
         sh 'echo 20'
       }
     }
