@@ -4,7 +4,7 @@ pipeline {
     stage('Buid') {
       steps {
         sh 'echo 11'
-        sh 'echo 20'
+        sh 'echo 21'
       }
     }
 
